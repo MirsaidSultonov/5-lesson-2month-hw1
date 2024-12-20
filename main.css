@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+}
+body{
+    background-color: #343C56;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+}
+.bola{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-top: 46px;
+}
+.p{
+    color: white;
+}
+.ota1{
+    display: flex;
+}
+img{
+    width: 400px;
+    height: 200px;
+    margin: 68px auto auto 80px;
+    
+}
+iframe{
+    width: 400px;
+    height: 200px;
+    margin: 68px 80px auto 200px;
+}
+.black{
+    background-color: black;
+    color: white;
+    margin: 41px auto; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 264px;
+    height: 118px; 
+    border-radius: 40px;
+}
+.ota3{
+    display: flex;
+    justify-content: space-around;
+}
+.bola1{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nevara{
+    width: 300px;
+    height: 109px;
+    background-color: #61FF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
